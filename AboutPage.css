@@ -90,7 +90,7 @@ footer{
     padding: 15px 55px 50px 15px;
     border: solid 2px #ffffff;
     border-radius: 12px;
-    position: fixed;
+    position: absolute;
     left: 27.5%;
     top: 44%;
 }
